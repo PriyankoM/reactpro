@@ -1,0 +1,10 @@
+.board {
+    width: 280;
+    height: 280;
+    border:2px solid;
+    border-radius: 5px;
+    cursor: crosshair;
+}
+
+
+
