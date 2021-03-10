@@ -8,5 +8,5 @@
 # Back-End
   The Backend part of this website made by Django (Python framework)
   
-#Machine Learning Model(CNN)
+# Machine Learning Model(CNN)
   Using tensorflow,numpy,keras libary i build my CNN model which predict the human writen digit. 
